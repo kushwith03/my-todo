@@ -1,6 +1,6 @@
 # To-Do List 📝
 
-A simple and clean **To-Do List** app built using **HTML, CSS, and JavaScript** as part of my frontend web development learning journey. It allows users to add and delete tasks dynamically in a responsive user interface.
+A simple and clean **To-Do List** app built using **HTML, CSS,Bootstrap and JavaScript** as part of my frontend web development learning journey. It allows users to add and delete tasks dynamically in a responsive user interface.
 
 ## 🖥️ Demo
 
