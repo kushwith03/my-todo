@@ -2,9 +2,11 @@
 
 A simple and clean **To-Do List** app built using **HTML, CSS, and JavaScript** as part of my frontend web development learning journey. It allows users to add and delete tasks dynamically in a responsive user interface.
 
-## 🔗 Live Demo
+## 🖥️ Demo
 
-![Preview](./preview.png | width=600)
+[🔗 View Live Site](https://kushwith03.github.io/my-todo/) 
+
+<img src="./preview.png" alt="Todo app screenshot" style="height:180px; border-radius: 10px;"/>
 
 ## 📚 What I Learned
 
@@ -21,13 +23,7 @@ A simple and clean **To-Do List** app built using **HTML, CSS, and JavaScript** 
 - Clean UI with basic styling
 - Responsive on different devices
 
----
 
-⭐ *If you found this project helpful or inspiring in your frontend learning journey, please consider giving it a star on GitHub!*
-
-## 📷 Screenshot
-
-![App Screenshot](./preview.png)
 
 ---
 
